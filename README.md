@@ -1,4 +1,4 @@
-# Olá eu sou o Yoshi! (❁´◡`❁) 
+# Olá eu sou o Yoshi! ＼（〇_ｏ）／
   Seja bem-vindo ao meu repositório GitHub!
 
    Aqui estão alguns projetos que concluí, 
