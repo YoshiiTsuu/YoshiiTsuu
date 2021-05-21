@@ -23,7 +23,7 @@ ________________________________________________________________________________
 ##⚡ GitHub Stats:
 <p align >
 
-![Yoshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoshiiTsuu&show_icons=true&theme=merko)
+![Yoshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoshiiTsuu&show_icons=true&theme=gruvbox)
 
 
 
