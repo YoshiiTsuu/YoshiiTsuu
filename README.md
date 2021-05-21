@@ -28,7 +28,7 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________________________________________
 Me siga nas redes sociais 👍😊!
-
+<p align='center'>
 
   <a href="https://www.linkedin.com/in/yoshimitsu-miyahira/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
