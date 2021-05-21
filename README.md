@@ -1,4 +1,4 @@
-# Olá eu sou o Yoshi! ＼（〇_ｏ）／
+# Olá eu sou o Yoshi! (❁´◡`❁)
   Seja bem-vindo ao meu repositório GitHub!
 
    Aqui estão alguns projetos que concluí, 
@@ -25,3 +25,6 @@ ________________________________________________________________________________
 
 ![Yoshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoshiiTsuu&show_icons=true&theme=cobalt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoshiiTsuu&layout=compact)](https://github.com/YoshiiTsuu/github-readme-stats)
+
+__________________________________________________________________________________________________________________________________________
+Redes sociais:
