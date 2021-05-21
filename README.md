@@ -9,7 +9,7 @@ ________________________________________________________________________________
 Estudante de ciência da computação na UFABC ||
 Futuro desenvolvedor JAVA full stack pela Generation Brasil
 __________________________________________________________________________________________________________________________________________
-##🚀💻 Linguagens e Ferramentas que uso 💻:
+🚀💻 Linguagens e Ferramentas que uso 💻:
 
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -20,15 +20,17 @@ ________________________________________________________________________________
 ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 __________________________________________________________________________________________________________________________________________
-##⚡ GitHub Stats:
+⚡ GitHub Stats:
 <p align >
 
 ![Yoshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoshiiTsuu&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoshiiTsuu)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
 __________________________________________________________________________________________________________________________________________
-##Me siga nas redes sociais 👍😊!
+Me siga nas redes sociais 👍😊!
 <p align>
 
   <a href="https://www.linkedin.com/in/yoshimitsu-miyahira/">
