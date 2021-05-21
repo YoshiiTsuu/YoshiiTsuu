@@ -23,8 +23,8 @@ ________________________________________________________________________________
 ⚡ GitHub Stats:
 <p align >
 
-![Yoshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoshiiTsuu&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoshiiTsuu)](https://github.com/anuraghazra/github-readme-stats)
+![Yoshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoshiiTsuu&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoshiiTsuu&show_icons=true&theme=dracula))](https://github.com/anuraghazra/github-readme-stats)
 
 
 
