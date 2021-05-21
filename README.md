@@ -21,10 +21,14 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________________________________________
 ⚡ GitHub Stats:
-<p align>
+<p align >
 
 ![Yoshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoshiiTsuu&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoshiiTsuu&layout=compact)](https://github.com/YoshiiTsuu/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YoshiiTsuu&layout=compact&theme=synthwave" />
+</a>
+<br />
+<br />
 
 __________________________________________________________________________________________________________________________________________
 Me siga nas redes sociais 👍😊!
