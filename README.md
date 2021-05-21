@@ -23,12 +23,16 @@ ________________________________________________________________________________
 ##⚡ GitHub Stats:
 <p align >
 
-![Yoshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoshiiTsuu&show_icons=true&theme=cobalt)
-<a href="https://github.com/YoshiiTsuu/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.YoshiiTsuu.vercel.app/api/top-langs/?username=YoshiiTsuu&layout=compact&theme=synthwave" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=YoshiiTsuu&hide=issues&theme=synthwave&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5"  />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gmbrunoo&layout=compact&theme=cobalt" />
 </a>
 <br />
 <br />
+
+<img align="right" alt="GIF" height="170px" src="https://i.pinimg.com/originals/27/6f/27/276f273d11f8b9dbc0a9c55bb38ea8c6.gif" />
 
 __________________________________________________________________________________________________________________________________________
 ##Me siga nas redes sociais 👍😊!
