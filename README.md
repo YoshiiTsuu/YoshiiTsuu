@@ -4,7 +4,9 @@
    Aqui estão alguns projetos que concluí, 
 e também é possível encontrar exercícios
 do meu curso de Desenvolvedor Java!
-![Snake animation](https://github.com/YoshiiTsuu/YoshiiTsuu/blob/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/YoshiiTsuu/YoshiiTsuu/output/github-contribution-grid-snake.svg)
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
                                  
 __________________________________________________________________________________________________________________________________________
 Estudante de ciência da computação na UFABC ||
