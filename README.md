@@ -41,4 +41,4 @@ ________________________________________________________________________________
     <a href="https://www.instagram.com/yoshi_tsu">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  target = "_blank"/>        
   </a>&nbsp;&nbsp;
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+  <a href="(http://stackoverflow.com){:target="_blank" rel="noopener"}">TESTE</a>
