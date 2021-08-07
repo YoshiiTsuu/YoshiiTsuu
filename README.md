@@ -6,7 +6,7 @@ e também é possível encontrar exercícios
 do meu curso de Desenvolvedor Java!                               
 __________________________________________________________________________________________________________________________________________
 Estudante de ciência da computação na UFABC ||
-Futuro desenvolvedor JAVA full stack pela Generation Brasil
+Desenvolvedor JAVA full stack pela Generation Brasil
 __________________________________________________________________________________________________________________________________________
 # 🚀💻 Linguagens e Ferramentas que uso 💻:
 
