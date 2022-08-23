@@ -5,8 +5,8 @@
 e também é possível encontrar exercícios
 do meu curso de Desenvolvedor Java!                               
 __________________________________________________________________________________________________________________________________________
-Estudante de ciência da computação na UFABC ||
-Desenvolvedor JAVA full stack pela Generation Brasil
+Estudante de Tecnologia da Informação [Univesp](https://univesp.br/) ||
+Desenvolvedor JAVA na [Vilt Group](https://www.vilt-group.com/pt/).
 __________________________________________________________________________________________________________________________________________
 # 🚀💻 Linguagens e Ferramentas que uso 💻:
 
